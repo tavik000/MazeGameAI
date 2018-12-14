@@ -29,6 +29,9 @@
 
 ## Introduction
 
+
+***Important Notice***: The Game AI only work on MacOS for now. 
+
 We would like to design a game that suits comprising AI player.  A maze game is created in this project since there are only two results, namely, win and lose. Only two final results can be easily simplified to rewards in the reinforcement learning algorithm.
   
   A maze game is designed based on a prototype JumpWall game got from [GitHub Repo](https://github.com/Unity-Technologies/ml-agents) of Unity ML-Agent.The final goal of player is that moving the cube, which represents the player character, to the escape point (destination). The player will have a first-person perspective, this will increase the difficulty of escaping from the maze.
@@ -74,7 +77,7 @@ Select the Screen resolution and click play button
 ![image](./ScreenShot/01.png) <br>
 
 ### Step 4
-WASD for Movement, Mouse for Rotate view. Restart button for restart.
+WASD for Movement, Mouse for Rotate view. Restart button for the restart.
 
 ![image](./ScreenShot/02.png) <br>
 
@@ -103,13 +106,13 @@ $ pip install tensorflow==1.7.1
 ```bash
 git clone https://github.com/Unity-Technologies/ml-agents.git
 ```
-change to the python directory inside the ml-agents directory:
+change to the ml-agents directory:
 
 ```bash
 $ cd ml-agents/ml-agents
 ```
 
-Installing the packet in the path.
+Install the package in the path.
 ```bash
 $ pip3 install .
 ```
@@ -153,7 +156,7 @@ You can use different Pre-trained model from our `TFModel` directory
 
 For using model, you should to use the `internal` brain type.
 
-**Important Notice**: When you want to use different model. You have to change the brain type to `external` first, then change back to `internal`. Otherwise, it will stil load the previous model 
+**Important Notice**: When you want to use different model. You have to change the brain type to `external` first, then change back to `internal`. Otherwise, it will still load the previous model 
 
 ![image](./ScreenShot/04.png) <br>
 
