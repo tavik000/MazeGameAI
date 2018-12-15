@@ -193,7 +193,7 @@ $ mlagents-learn config/trainer_config.yaml --run-id=yourID --train
 - <img src="https://github.com/favicon.ico" width="24">[Chen Qi](https://github.com/Cqyhid) <br>
 - <img src="https://github.com/favicon.ico" width="24">[Karl So](https://github.com/KarlSoHelloworld) <br>
 - <img src="https://github.com/favicon.ico" width="24">[Wafei](https://github.com/WafeiBaBa) <br>
-- Derek Wang
+- <img src="https://github.com/favicon.ico" width="24">[choufengpai](https://github.com/choufengpai)
 
 
 
@@ -204,7 +204,7 @@ The Maze
 Training
 ![image](./ScreenShot/train01.png) <br>
 ![image](./ScreenShot/train02.png) <br>
-Modify Reward Function
+The Reward Function
 ![image](./ScreenShot/reward.png) <br>
 Gameplay
 ![image](./ScreenShot/07.png) <br>

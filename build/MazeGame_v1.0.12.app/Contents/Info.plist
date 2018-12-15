@@ -10,7 +10,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>MazeGame_v1.0.11</string>
+	<string>MazeGame_v1.0.12</string>
 	<key>CFBundleGetInfoString</key>
 	<string>Unity Player version 2018.2.18f1 (4550892b6062). (c) 2018 Unity Technologies ApS. All rights reserved.</string>
 	<key>CFBundleIconFile</key>
