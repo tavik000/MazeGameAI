@@ -211,7 +211,7 @@ Gameplay
 
 Gameplay Video
 
-[![VIDEO](./ScreenShot/youtubeBtn.png)](https://www.youtube.com/watch?v=EJBkXGDjS0E)
+[![VIDEO](./ScreenShot/youtubeBtn.png)](https://www.youtube.com/watch?v=lbGGDvMfniw&t=6s)
 
 
 
