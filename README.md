@@ -63,7 +63,6 @@ You can also check our report in the `Report&PowerPoint` directory for more deta
 
 ## User Manual
 
-Requirement: MacOS
 
 ### Step 1
 Download the Program
@@ -81,7 +80,8 @@ WASD for Movement, Mouse for Rotate view. Restart button for the restart.
 
 ![image](./ScreenShot/02.png) <br>
 
-
+### Critical Issue
+***Notice***: If you find that the AI does not move in your game, you have to follow the Installation guide and build the Game in your own.
 
 
 
